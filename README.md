@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sai Harshit Mamilla 👋
 
-<!--
-**mamillaharshit009/mamillaharshit009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer with experience building enterprise web applications using Java, Spring Boot, Microservices, and React.
 
-Here are some ideas to get you started:
+🎓 MS Information Technology – University of Cincinnati  
+💻 Backend: Java, Spring Boot, Hibernate, REST APIs  
+🌐 Frontend: React, Angular, JavaScript, HTML, CSS  
+☁ Cloud: AWS (EC2, S3), Azure  
+🛠 DevOps: Docker, Kubernetes, Jenkins, GitHub Actions  
+🗄 Databases: MySQL, PostgreSQL, Oracle  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### Spring Boot Microservices Platform
+Java-based microservices architecture with REST APIs, Docker containers, and CI/CD pipeline deployment.
+
+### Full Stack Task Manager
+React + Spring Boot application with authentication, dashboard, and database integration.
+
+### Machine Learning – Counterfeit Banknote Detection
+Python ML project using statistical feature extraction and classification models.
+
+---
+
+## Tools & Technologies
+
+Java | Spring Boot | Hibernate | REST APIs  
+React | Angular | JavaScript | HTML | CSS  
+Docker | Kubernetes | Jenkins | GitHub Actions  
+AWS | Azure | CI/CD | Microservices  
+MySQL | PostgreSQL | Oracle
+
+---
+
+## Connect with Me
+
+LinkedIn: (your LinkedIn link)
+Email: harshit@itjobworks.com
