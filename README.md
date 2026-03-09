@@ -36,5 +36,5 @@ MySQL | PostgreSQL | Oracle
 
 ## Connect with Me
 
-LinkedIn:https://www.linkedin.com/in/harshit-mamilla07/
+LinkedIn: https://www.linkedin.com/in/harshit-mamilla07/
 Email: harshit@itjobworks.com
